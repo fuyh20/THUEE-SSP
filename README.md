@@ -1,2 +1,2 @@
 # THUEE-SSP
-Homework for class SSP in Dept. EE, THU. Three algorithms about DOA.
+Homework for course SSP in Dept. EE, THU. Three algorithms about DOA.
